@@ -123,7 +123,7 @@ Continent nvarchar(255),
 Location nvarchar(255),
 Date datetime,
 Population numeric,
-New_vaccinations nvarchar(255),
+New_vaccinations numeric,
 RollingPeopleVaccinated numeric,
 )
 
